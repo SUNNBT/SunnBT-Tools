@@ -1,0 +1,24 @@
+# Gradle / ForgeGradle
+.gradle/
+build/
+run/
+out/
+
+# 编译产物
+*.class
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.settings/
+.classpath
+.project
+.vscode/
+
+# 系统
+.DS_Store
+Thumbs.db

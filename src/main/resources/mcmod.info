@@ -1,0 +1,14 @@
+[
+{
+  "modid": "sunnbtmods",
+  "name": "SunnBT Tools",
+  "description": "Auto login (/register, /login detection within a time window) + offline account rename tools (Rename & Rejoin, Offline Accounts). Everything is editable from the Forge Mods config screen.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "authorList": ["SunnBT"],
+  "credits": "By Sunnbt",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
